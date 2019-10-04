@@ -23,3 +23,15 @@ Three step commit process
 * Commit the staged files
     git commit -m "Descriptive commit message to myself and others"
 
+Put my files into Github
+-------------------------
+    After you commit, use git push
+
+When pulling a file from a new compuiter
+--------------------------------------------------
+    Do step 1
+    git clone
+
+When switching computers
+---------------------------------------
+    git pull
