@@ -16,7 +16,7 @@ Describe my project here.
 
     indented block
 
-The command is `single line, inline`.
+The command is`single line, inline`.
 
 ```
 list.each do |n|
